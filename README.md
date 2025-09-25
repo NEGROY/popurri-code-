@@ -1,2 +1,7 @@
 # popurri-code-
 MUCHOS SCRIPTS DIFERENTES QUE NO PUEDO SUBIR A ONE DRIVE 
+
+
+*/** APP EN INICIO DE WINDOWS 
+shell:startup
+
